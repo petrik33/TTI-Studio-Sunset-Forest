@@ -46,6 +46,14 @@ To skip whatever content of cutscene use Space/Enter/LMB.
 
 P.S. Actually you can also turn the laptop mode to configure attack and push from mouse buttons to keys
 
+## Authors
+
+Made by [Thirty Three Infinities (aka TTI Studio)](https://thirty-three-infinities.itch.io/)
+
+* Art - [Kure Mothri](https://linktr.ee/kuremothri)
+* Sound Design - Daryl Thompson
+* Programming - [Tsimafei Petrykevich](https://github.com/petrik33)
+
 ## Additional Notes
 
 *Have a nice game! All Aboard for Funtime! (Totally unrelated Iggy Pop reference)*
