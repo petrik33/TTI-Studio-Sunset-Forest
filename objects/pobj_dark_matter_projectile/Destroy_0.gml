@@ -1,0 +1,1 @@
+if(instance_exists(light_instance)) instance_destroy(light_instance);

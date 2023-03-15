@@ -1,0 +1,9 @@
+if(!global.game_is_paused)
+{
+	script_execute(state);
+	if(++living_time>=living_duration)
+	{
+		DyingScript();
+	}
+	event_inherited();
+}

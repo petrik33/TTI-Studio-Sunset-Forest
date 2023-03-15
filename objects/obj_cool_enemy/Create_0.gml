@@ -1,0 +1,19 @@
+event_inherited();
+attack_struct = new AttackRanged(
+self,
+spr_enemy_cool_attack,
+noone,
+5,
+1,
+pobj_hero,
+333,
+sn_bohra_release,
+false,
+4,
+obj_bohra_bullet,
+244,
+33,
+-72,
+false,
+0.1
+);
